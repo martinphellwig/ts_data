@@ -13,14 +13,21 @@ FOLDER = os.path.dirname(_CODE)
 
 SITE='site'
 
-_REPLACERS = [['h7', 'h8'],
-              ['h6', 'h7'],
-              ['h8', 'h7'],
-              ['h5', 'h6'],
-              ['h4', 'h5'],
-              ['h3', 'h4'],
-              ['h2', 'h3'],
-              ['h1', 'h2']]
+def _reduce_headers(page):
+    found = list()
+    for number in range(1,7):
+        header = 'h%s' % number
+        if len(page.findAll(header)) > 0:
+            found.append(header)
+    
+    found.sort()
+    
+    replacers = zip(found, range(2, 2+len(found)))
+    replacers.sort(reverse=True)
+    for find, replace in replacers:
+        replace = 'h%s' % replace
+        for fetched in page.findAll(find):
+            fetched.name = replace
 
 def make_site_html(path):
     file_name = os.path.join(FOLDER, SITE, path) 
@@ -29,14 +36,14 @@ def make_site_html(path):
         target = docutils.core.publish_string(source=source, writer_name='html')
     
     page = BeautifulSoup.BeautifulSoup(target)
-    for find, replace in _REPLACERS:
-        for found in page.findAll(find):
-            found.name = replace
+    _reduce_headers(page)
     
     text = list() 
     tmp = list()
-    for entry in page.body:
-        tmp.append(unicode(entry))
+    for upper_div in page.body:
+        for entry in upper_div:
+            unicode_entry = unicode(entry) 
+            tmp.append(unicode_entry)
         
     part = ''.join(tmp)
 
@@ -59,4 +66,6 @@ def make_site_html(path):
     
 
 if __name__ == '__main__':
-    print(make_site_html('articles/risk_scenario.rst')[1])
+    rv = make_site_html('welcome.rst')[1]
+    print(rv)
+    
