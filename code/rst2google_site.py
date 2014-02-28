@@ -66,6 +66,6 @@ def make_site_html(path):
     
 
 if __name__ == '__main__':
-    rv = make_site_html('welcome.rst')[1]
+    rv = make_site_html('articles/risk_assessment.rst')[1]
     print(rv)
     
