@@ -120,4 +120,5 @@ supported environment, would likely not be necessary.
 .. [2] http://en.wikipedia.org/wiki/CBRN
 .. [3] https://bitbucket.org/towards_self_sufficiency/data/src/default/data/data_extreme_events_since_1974.csv.
 .. [4] https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/221885/budget2013_complete.pdf
-.. [5] London, Birmingham, Leeds, Glasgow, Sheffield, Bradford, Liverpool, Edinburgh, Manchester & Bristol,
+.. [5] London, Birmingham, Leeds, Glasgow, Sheffield, Bradford, Liverpool, Edinburgh, Manchester & Bristol as
+       found in http://www.citymayors.com/gratis/uk_topcities.html
