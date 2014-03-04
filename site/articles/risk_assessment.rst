@@ -32,16 +32,16 @@ some occasion to the loss of life.
 
 Contributing Factors
 --------------------
-Although it is financial unsound to prepare for all historical (since records 
-began) extreme weather events, it has been indicated that the current 
-preparation levels are not sufficient for the frequency in which weather 
-extremes are occurring.
+Although for regional and national governments it is financial unsound to 
+prepare on a level as set by historical (since records began) extreme weather 
+events, it has been indicated that the current preparation levels are not 
+sufficient for the frequency in which weather extremes are occurring.
 
 Climate change is by the vast majority of researchers in that field classified
 as a proven and undeniable fact, the level on which this affects the frequency 
 of extreme weather events is still debatable. Though there is a notable increase
 in the frequency since the last 40 years. For more information please see the 
-tabulation [3]_, this is a summation which in itself has references to commonly
+tabulation [3]_, which is a summation which in itself has references to commonly
 acceptable creditable sources.
 
 Speculation on why current preparation levels are under-performing:
@@ -66,7 +66,7 @@ This will cause the following services to be affected for certain period:
 The period of which these services are unavailable seem to be at least 3 days to
 upwards of 3 weeks after the event has subsided.
 
-The following essential goods are often difficult to obtain during the disruptions:
+The following essential goods are often difficult to obtain during these disruptions:
  - Fuels; Paraffin, Petrol, Coal etc.
  - Food and Food Supplements
  - Clothing
@@ -97,13 +97,13 @@ Note that this scenario has no precedence and is only projected from the
 possibility of multiple disruptions taken place over a prolonged period.
 
 As there are around 600,000 personal in the armed forces, police and fire 
-prevention [4]_ an amount of 1 million residents in action due to discord will
-likely be enough to collapse the system. 
+prevention [4]_ an amount of 1 million residents in severe discord will likely 
+be enough to collapse the system. 
 
-However not all residents will be taken actions, my estimate is that only half 
-of them will. So the amount of affected residents should be at least around 2 
-million. Furthermore the affected area needs to be sufficiently large so it can
-not be effectively hold under quarantine.
+However not all residents will be taken action, my rough estimate is that only 
+half of them will. So the amount of affected residents should be at least around 
+2 million. Furthermore the affected area needs to be sufficiently large so it 
+can not be effectively hold under quarantine.
 
 Realistically a system overload will mostly only occur if 3 out of the 10 [5]_
 biggest cities simultaneously collapse in distress.
