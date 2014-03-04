@@ -15,6 +15,7 @@ def generate():
         for name in files:
             path = os.path.join(basis, name)
             hier = basis.split(os.path.sep)
+            print('- %s' % name)
             title, content = rst2google_site.make_site_html(path)
             tmp.append((hier, title, content))
     return(tmp)
