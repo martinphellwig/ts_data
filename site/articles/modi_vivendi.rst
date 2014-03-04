@@ -1,6 +1,6 @@
-=================
-Modi Vivendi [1]_
-=================
+============
+Modi Vivendi
+============
 
 Two weeks ago I wanted to write an article explaining why I find self 
 sufficiency important, what I actually mean by it, and how I see it becoming a 
@@ -20,7 +20,9 @@ The context in this instance is life itself, which makes answering it difficult,
 as the  adage goes, the only constant in life is change. Thus over time the 
 answer will change too. 
 
-However I believe in a structural approach to solving difficulties, as such this
+Problem Solving
+---------------
+I believe in a structural approach to solving difficulties, as such this 
 question needed to be cut down in smaller more manageable portions. Each portion 
 can then be further processed by applying scientific methods. This should allow 
 me to identify the dynamic parts and instead of giving an answer that is 
@@ -33,9 +35,11 @@ to change them in a contextual sense but to make the text more readable.
 So the first problem I had was that I had no idea how to break the 'problem'
 down as I did not even knew what that problem was. The phrase 'Modus Operandi' 
 popped into my head and after searching what the actual meaning was, I wandered 
-of into 'Modi Operandi' then 'Modus Vivendi' and finally 'Modi Vivendi'. 
+of into 'Modi Operandi' then 'Modus Vivendi' and finally 'Modi Vivendi' [1]_. 
 This last phrase was to become the working title of this article.
 
+Finding the Core
+----------------
 During the writing of this article, which in my case means mostly reading out
 loud, rereading, rewriting and deleting of entire paragraphs, I found the actual
 kernel of what I wanted to write about: How my head ticks and how this 
@@ -58,10 +62,12 @@ myself getting distracted by other thoughts, that may be related and relevant
 but will also cause me to diverge on the original project, with the danger of 
 that project suffering under it.
 
-For example; I wanted to start a youtube channel because I was inspired by 
-the prepping and bushcraft community who have done some really interesting 
-videos, especially the ones done in the UK. But I did not just wanted to rinse 
-and repeat what they did, no I wanted something more me.
+An Example
+----------
+I wanted to start a youtube channel because I was inspired by the prepping and 
+bushcraft community who have done some really interesting videos, especially the
+ones done in the UK. But I did not just wanted to rinse and repeat what they 
+did, no I wanted something more me.
 
 What is more me, is the theme of self sufficiency, so I went along with that.
 But I did not want to put it under my personal youtube channel, as I reserve 
@@ -75,6 +81,8 @@ allow me to plug in an external microphone, which is important for me because I
 find my own voice is irritating, especially combined with bad internal
 microphones. Also one of my pet peeves is wind noise on videos made outdoors.
 
+CDO: OCD in the right order
+---------------------------
 Since I know I will be obsessively and repeatedly going over my videos whilst 
 editing it, I knew I would be constantly agitated if I my voice is even more 
 irritating then under the best possible circumstances and thus I would be 
@@ -88,6 +96,8 @@ as I can document it from the very beginning, giving a very anecdotal
 perspective that some may find informative or at least amusing as I expect to 
 make many mistakes.
 
+Keep on Trucking
+----------------
 To keep momentum going I decided to work on the things surrounding the channel,
 perhaps start writing something on the g+ page. That g+ page is really more like 
 a message board, which again is not really me, it is useful for news flashes, 
@@ -106,6 +116,8 @@ actually get anywhere closer to creating a video, so I just pushed myself to
 write a welcome page with that google sites online editor, which was not even 
 half bad. 
 
+Getting Somewhere
+-----------------
 After I have written that, I started having the need to write that 'Why?' 
 article, because I realised that the welcome page is not suitable as a base for 
 a video, mostly because it is just a 'look at here and here' type of text and 
@@ -126,6 +138,8 @@ years and links to articles that have documented the impact of these. The
 article itself was more of an itemisation list then an article, it would make a 
 good base for presentation sheet, but not good enough for an article by itself. 
 
+Closer and Closer
+-----------------
 It did achieve though that I was confident now that preparing for disasters is
 not just a figment of my imagination, but something real and necessary with some
 hard data behind it to prove it. I actually was appalled that not everybody 
@@ -141,6 +155,8 @@ done by everybody may not be something that is illegal, but it remains a wrong.
 And being self sufficient is a win-win situation anyway as the person who will
 benefit the most from it is the one doing it.
 
+So Close But No Cigar
+---------------------
 Nevertheless the risk scenario page was ugly and it bothered me, so I removed 
 the reference data of the page and wanted to link to it, but where to put it? 
 What I needed was a data store, but since this is my data, I wanted something 
@@ -152,11 +168,14 @@ unmaintainable, but I will bare with it for the time being. Time to start that
 didn't have a camera, though I could do it with my phone if needs be. 
 
 It was then I hit the brick wall of a writers block on that article, so instead 
-of giving up on it, I stepped over to the side ideas and converted the 
-welcome page to an rst version. So I wrote the converter script that produces 
+of giving up on it, I stepped over to the side ideas and converted the welcome 
+page to an rst version. So I wrote the converter script that produces 
 an HTML page from the source rst. Once I had that output I discovered that the 
 google site only allows partial HTML, which meant adapting my converter. 
 
+
+A Little Bit Of Automation In My Life
+-------------------------------------
 All this manual converting and uploading was a bit of a pain and I wanted to 
 automate that, but I stuck with it because I still needed to reformat the risk
 scenario HTML to rst. 
@@ -176,6 +195,9 @@ was that I still had a mental block, so I continued to search for a cheap HD
 video camera with a microphone plug in. And I failed in it, even going to ebay 
 and gum tree I could not find a relative decent one under 200 pounds sterling.
 
+
+It's not having what you want, It's wanting what you've got
+-----------------------------------------------------------
 But I remembered that I had a cheap Kodak Zi8 pocket HD camera which had a 
 microphone input, so I reverted to use that one instead, which also meant that I
 needed to get a tripod and of course the all important microphone. Well to my
@@ -188,14 +210,16 @@ myself a USB microphone and I will just resort to using my computer to record
 the audio and then edit the video with the audio track together.
 
 After receiving my microphone and testing it, I discovered that it was a really
-good microphone, as in it picks up all sounds, including the reflection. But 
-with some editing this could be managed, still not ideal and there is no way I 
-would be able to use the microphone in the 'field'.
+good microphone, as in it picks up all sounds, including all the ambient noise. 
+But with some editing this could be managed, still not ideal and there is no way
+I would be able to use the microphone in the 'field'.
 
 Still equipment wise I was now in a state where I would be able to create a 
 video that would have some chance of surviving my own criticism, as long as I do
-not take it outdoors.
+not try to do that outdoors.
 
+Back To The Future/Past
+-----------------------
 The original problem remained, I still did not know what to do with that 'Why?' 
 article. Again to keep momentum going I rewrote the risk scenario to a proper
 article which I called risk assessment. 
@@ -209,6 +233,8 @@ want to say, then I would edit the beginning to make it coherent and tweak the
 article till it flows nicely. I just needed a start, a theme that would guide my 
 Modus Operandi, whatever that actually means.
 
+Out Of The Loop
+---------------
 The first, draft of this article has taken me around 4 days of writing, not
 continuously of course as I have a day job and family, still some significant
 hours went into it. During that time I also realized my approach to my audio
@@ -226,7 +252,7 @@ Ironically I don't think this article will make an interesting video on its own,
 it is more suited as background information released simultaneously with for
 example a presented version of the risk assessment article.
 
-But at least the 'Why?'is out of the way and I already have some thought about
+But at least the 'Why?' is out of the way and I already have some thought about
 writing an article about my modi vivendi to self sufficiency. 
 
 .. [1] From Latin, meaning: A manner of living; a way of life.
