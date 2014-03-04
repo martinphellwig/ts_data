@@ -27,7 +27,7 @@ me to identify the dynamic parts and instead of giving an answer that is
 depending on the current context, I document how I identify the context and what
 my used methodology is. Thus this would allow me to write an article that does 
 not require constant modification, well at least that is the theory and to be 
-honest I am knows to tweak articles for weeks after original publication but not
+honest I am known to tweak articles for weeks after original publication but not
 to change them in a contextual sense but to make the text more readable.
 
 So the first problem I had was that I had no idea how to break the 'problem'
@@ -52,7 +52,7 @@ sitting around, eating away my available brain cycles by being a distraction.
 The result is that I find it difficult to commit myself into starting something,
 as I would be disappointed in myself if I didn't see it through. Regardless of 
 what I do, I want to do it to the best of my abilities only constraint by 
-external factors (such as a time limit). Which sounds good on paper but the 
+external factors such as a time limit. Which sounds good on paper but the 
 effect for me is that I have to put in considerable constraints to prevent
 myself getting distracted by other thoughts, that may be related and relevant
 but will also cause me to diverge on the original project, with the danger of 
@@ -65,13 +65,13 @@ and repeat what they did, no I wanted something more me.
 
 What is more me, is the theme of self sufficiency, so I went along with that.
 But I did not want to put it under my personal youtube channel, as I reserve 
-that for private videos of and for my friends/family. So I looked into how I can
+that for private videos of for my friends/family. So I looked into how I can
 create another channel but still linking it to my primary account. Well you can 
 do that by creating a Google Plus page. So I did that and subsequently created a
 channel under it.
 
 After that I looked into cameras and I could not find a cheap HD one that would 
-allow mee to plug in an external microphone, which is important for me because I 
+allow me to plug in an external microphone, which is important for me because I 
 find my own voice is irritating, especially combined with bad internal
 microphones. Also one of my pet peeves is wind noise on videos made outdoors.
 
@@ -83,7 +83,7 @@ that video was rather pointless.
 
 However a more urgent problem was that I did not have any material worth while
 to put into a video, primarily because I know next to nothing about self 
-sufficiency. My naivety of self sufficiency is actually my unique angle on this 
+sufficiency. My naivety of self sufficiency is actually my unique angle on this, 
 as I can document it from the very beginning, giving a very anecdotal 
 perspective that some may find informative or at least amusing as I expect to 
 make many mistakes.
@@ -98,9 +98,9 @@ hosting, so off I went to start a google site.
 
 Writing articles directly on that page is again not my preferred way of going 
 about, I even try to avoid using programs like Word as I know that in the end it
-will always end up being a maintenance nightmare. I like to write in bare
-text format called reStructuredText abbreviated with rst)  and then convert it 
-to any format I require, like HTML. This however would require me to script a 
+will always end up being a maintenance nightmare. I like to write in bare text 
+format called reStructuredText, abbreviated with rst, and then convert it to any 
+format I require, like HTML. This however would require me to script a 
 conversion tool and knowing if I would start on that first I would never 
 actually get anywhere closer to creating a video, so I just pushed myself to 
 write a welcome page with that google sites online editor, which was not even 
@@ -152,14 +152,14 @@ unmaintainable, but I will bare with it for the time being. Time to start that
 didn't have a camera, though I could do it with my phone if needs be. 
 
 It was then I hit the brick wall of a writers block on that article, so instead 
-of giving up on it, I side stepped over to the side ideas and converted the 
+of giving up on it, I stepped over to the side ideas and converted the 
 welcome page to an rst version. So I wrote the converter script that produces 
 an HTML page from the source rst. Once I had that output I discovered that the 
 google site only allows partial HTML, which meant adapting my converter. 
 
 All this manual converting and uploading was a bit of a pain and I wanted to 
 automate that, but I stuck with it because I still needed to reformat the risk
-scenario to rst. 
+scenario HTML to rst. 
 
 Whilst converting that risk scenario, I was more and more convinced that it was
 just not up to scratch and won't make into a video either.
@@ -173,8 +173,8 @@ button and my articles will be converted and the google site page is recreated.
 
 Having done that it was really time to start on the 'Why' article, the problem 
 was that I still had a mental block, so I continued to search for a cheap HD
-video camera with microphone plug in. And I failed in it, even going to ebay and
-gum tree I could not find a relative decent one under 200 pounds sterling.
+video camera with a microphone plug in. And I failed in it, even going to ebay 
+and gum tree I could not find a relative decent one under 200 pounds sterling.
 
 But I remembered that I had a cheap Kodak Zi8 pocket HD camera which had a 
 microphone input, so I reverted to use that one instead, which also meant that I
@@ -202,9 +202,9 @@ article which I called risk assessment.
 
 I started to get in a bit of bother now, because I really needed to get that 
 article going. Desperately I tried to analyse what the theme of the article
-should be as 'Why?' was just getting me into trouble. I knew that once I have 
-the first paragraph written down the rest will follow, my thoughts will get 
-clearer along the way and halfway I would have a clear understanding of what I 
+should be, as 'Why?' was just getting me into trouble. I knew that once I have 
+the first paragraph written down, the rest will follow. My thoughts will get 
+clearer along the way and halfway I would have a good understanding of what I 
 want to say, then I would edit the beginning to make it coherent and tweak the
 article till it flows nicely. I just needed a start, a theme that would guide my 
 Modus Operandi, whatever that actually means.
@@ -213,14 +213,14 @@ The first, draft of this article has taken me around 4 days of writing, not
 continuously of course as I have a day job and family, still some significant
 hours went into it. During that time I also realized my approach to my audio
 problem was completely wrong, what I actually needed was not a USB microphone 
-but a voice recorderlike the Tascam DR-05 Dictaphone and a lavalier microphone 
+but a voice recorder like the Tascam DR-05 Dictaphone and a lavalier microphone 
 like the Rode SmartLav, with an optional furry cover for outdoor use. A tie clip
 like microphone will not be so sensitive of ambient noise and as such much more
 suitable for audio where voice is important, stupid mistake really. 
 
 Together that would have costed me the same as the USB microphone by the way. 
 Then I would also not be restricted by the fact that any decent low cost HD 
-camera have no microphone input.
+cameras have no microphone input.
 
 Ironically I don't think this article will make an interesting video on its own, 
 it is more suited as background information released simultaneously with for
