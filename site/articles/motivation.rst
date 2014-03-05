@@ -61,9 +61,9 @@ Three Options
 -------------
 When confronted with a sudden unavailability of the services, regardless whether
 these are grid connected or not, you have the following choices:
- - Restore the environment to the previous state
- - Relocate to an environment unaffected
- - Adapt to the situation
+- Restore the environment to the previous state
+- Relocate to an environment unaffected
+- Adapt to the situation
 
 Performing the chosen task takes time, time that you get by using your 
 preparations. The choices are more or less in order of fall back. Thus if 
@@ -114,5 +114,7 @@ Well it is either that or we are all slaves of the companies that own the grid
 services and the industrial farms. 
  
 
-.. _research 
+.. _research: https://sites.google.com/site/towardsselfsufficiency/articles/risk-assessment
+
+
  
