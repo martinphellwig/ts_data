@@ -5,12 +5,12 @@ Modi Vivendi
 Two weeks ago I wanted to write an article explaining why I find self 
 sufficiency important, what I actually mean by it, and how I see it becoming a 
 part of my life. In other words, describing the motivations that drives me to do 
-what I am doing. My main motivation is to create a youtube video and to use
-that article as a base. Usually I write my articles in a narrative form, as such
-a video about it would be a  matter of reading the article out loud.  
+what I am doing. What I wanted for that article, though, was to use it as a base
+for a youtube video. Usually I write my articles in a narrative form, as such a 
+video of it would be a  matter of reading the article out loud.  
 
-But I was struck with the difficulty to articulate  what I  wanted to convey. My 
-first problem was that, instinctively, I wanted to  call this article 'Why?'.
+But I was struck with the difficulty to articulate what I wanted to convey. My 
+first problem was that, instinctively, I wanted to call this article 'Why?'.
 
 The problem was not an inability of writing or a lack of inspiration. 
 No the real problem is that I actually do not have a comprehensive answer to 
@@ -46,18 +46,18 @@ have a large impact on how I will live my life. But please be aware, I can only
 speak for myself, I can not be certain this will work for anybody else but me, 
 that is if it's even going to work for me.
 
-Firstly my head is a very chaotic place, at any given time, I have dozens of 
+Firstly, my head is a very chaotic place, at any given time, I have dozens of 
 ideas, thoughts and things I want to do. A lot of them are intertwined with each
 other, a lot of them are just bogus and not realistic, they are just there
 sitting around, being a distraction and eating away my available brain cycles.
 
 The result is that I find it difficult to commit myself into starting something,
 as I would be disappointed in myself if I didn't see it through. Regardless of 
-what I do, I want to do it to the best of my abilities only constraint by 
+what I do, I always want to do it to the best of my abilities only constraint by 
 external factors such as a time limit. Which sounds good on paper but the 
 effect for me is that I have to put in considerable constraints to prevent
 myself getting distracted by other thoughts, that may be related and relevant
-but will also cause me to diverge off the original project, with the danger of 
+but will also cause me to diverge off the original intention, with the danger of 
 that project suffering under it.
 
 An Example
@@ -106,14 +106,14 @@ like writing articles. The `g+` page is not really suitable for anything longer
 then two paragraphs. Fortunately I remembered that google did offer free site 
 hosting, so off I went to start a `google site`_.
 
-Writing articles directly on that page is again not my preferred way of going 
+Writing articles directly on that site is again not my preferred way of going 
 about, I even try to avoid using programs like Word as I know that in the end it
-will always end up being a maintenance nightmare. I like to write in bare text 
+will always end up being a maintenance nightmare. I like to write text in a bare 
 format called reStructuredText_, abbreviated with rst, and then convert it to 
-any format I require, like HTML. This however would require me to script a 
-conversion tool and knowing if I would start on that first I would never 
-actually get anywhere closer to creating a video, so I just pushed myself to 
-write a welcome page with that google sites online editor, which was not even 
+any format I require, like HTML. This however would mean I have to script a 
+conversion tool together and knowing if I would start on that first I would 
+never actually get anywhere closer to creating a video, so I just pushed myself 
+to write a welcome page with that google sites online editor, which was not even 
 half bad. 
 
 Getting Somewhere
@@ -128,9 +128,9 @@ me? It turns out I just have an inert need to 'prep', although so far I have
 ignored it. To make sure if prepping is at all justified I researched into the 
 frequency of circumstances where being prepared is a considerable advantage, 
 which of course lead to storm and floods. The 'of course' part is that during 
-that time in the UK, all there was on the news where the storm and floods of 
-2014 and how this affected people, like having no electricity and needing to 
-leave their homes.
+the time of writing the article, all there was on the news where in the UK
+where about the storm and floods of 2014 and how this affected people, 
+like having no electricity and needing to leave their homes.
 
 After doing the research I wrote another page called `risk scenario`_ and put my
 research data under there, which was a list of floods and storms of the last 40 
@@ -186,7 +186,7 @@ just not up to scratch and won't make into a video either.
 Once I finished with the conversion, I had now two articles, which meant it was 
 high time to automate the uploading part of it, which turned out to be a bit 
 more difficult then expected because the google site API is convoluted to work 
-with. But after adjusting me expectation I had something that at least complied 
+with. But after adjusting my expectation I had something that at least complied 
 with the minimum required functionality, which was that I can hit the enter 
 button and my articles will be converted_ and the google site page is created_.
 
@@ -215,9 +215,9 @@ good microphone, as in it picks up all sounds, including all the ambient noise.
 But with some editing this could be managed, still not ideal and there is no way
 I would be able to use the microphone in the 'field'.
 
-Still equipment wise I was now in a state where I would be able to create a 
-video that would have some chance of surviving my own criticism, as long as I do
-not try to do that outdoors.
+Equipment wise I was now in a state where I would be able to create a video that 
+would have some chance of surviving my own criticism, as long as I do not try to
+film outdoors.
 
 Back To The Future/Past
 -----------------------
@@ -227,12 +227,13 @@ article which I called `risk assessment`_.
 
 I started to get in a bit of bother now, because I really needed to get that 
 article going. Desperately I tried to analyse what the theme of the article
-should be, as 'Why?' was just getting me into trouble. I knew that once I have 
-the first paragraph written down, the rest will follow. My thoughts will get 
-clearer along the way and halfway I would have a good understanding of what I 
-want to say, then I would edit the beginning to make it coherent and tweak the
-article till it flows nicely. I just needed a start, a theme that would guide my 
-Modus Operandi, whatever that actually means.
+should be, as 'Why?' was just getting me into trouble. 
+
+I knew that once I had the first paragraph written down, the rest will follow. 
+My thoughts will get clearer along the way and halfway around I would have a 
+good understanding of what I wanted to say. Then I would edit the beginning to 
+make it coherent and tweak the article till it flows nicely. I just needed a 
+start, a theme that would guide my Modus Operandi, whatever that actually means.
 
 Out Of The Loop
 ---------------
@@ -245,19 +246,16 @@ cover [11]_ for outdoor use. A tie clip like microphone will not be so sensitive
 of ambient noise and as such much more suitable for audio where voice is 
 important, stupid mistake really. 
 
-Together that would have costed me the same as the USB microphone by the way. 
-Then I would also not be restricted by the fact low cost HD cameras have no 
+By the way, together that would have costed me the same as the USB microphone. 
+Then I would also not be restricted by the fact that low cost HD cameras have no 
 microphone input.
 
-Ironically I don't think this article will make an interesting video on its own, 
-it is more suited as background information released simultaneously with for
-example a presented version of the risk assessment article.
-
+Ironically I don't think this article will make an interesting video on its own.
 But at least the 'Why?' is out of the way and I already have some thought about
 writing an article about my modi vivendi to self sufficiency. 
 
-The original Latin root of the phrase 'Modi Vivendi' means literally
-'Ways of Life'.
+For people like me that do not know Latin at the top of their head, the phrase 
+'Modi Vivendi' means literally 'Ways of Life'.
 
 .. [1] http://www.oxforddictionaries.com/definition/english/scientific-method
 .. [2] The plural of Modus Operandi
