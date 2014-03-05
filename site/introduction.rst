@@ -2,8 +2,9 @@
 Introduction
 ============
 
-I am your host *Martin P. Hellwig* and this site is part of collective 
-containing a youtube_ channel,  `g+`_ page and a repository_.
+Welcome to Towards Self Sufficiency, I am your host *Martin P. Hellwig* and 
+this site is part of collective containing a youtube_ channel,  `g+`_ page and a 
+repository_.
 
 The central theme of this collection is the broader aspects of self sufficiency,
 which includes topics such as growing/raising sustenance, service grid 
