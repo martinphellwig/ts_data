@@ -1,6 +1,9 @@
-==================================================================
-Risk Assessment of Temporary Disruption to National Infrastructure 
-==================================================================
+===============
+Risk Assessment  
+===============
+
+Temporary Disruption to National Infrastructure
+===============================================
 
 Introduction
 ------------
